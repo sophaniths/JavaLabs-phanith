@@ -45,7 +45,7 @@ Note: to complete this task, the following processes are helpful:
 - git clone https://github.com/altrad-novelty/JavaLabs.gitLinks to an external site.
 - open new branch/fork in github from the invitation link, this to push your solution under your name.
 - Links to an external site.git remote set-url --push origin https://github.com/...your-forked-repositoryLinks to an external site.
-- # update the file
+- update the file
 - git add .
 - git commit -m "MESSAGE"
 - git push
